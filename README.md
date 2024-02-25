@@ -13,7 +13,7 @@ Financial Independence, Retire Early (FIRE) Calculator
 
 最后得到的计算结果是到第 61 年（2085）破产
 
-![alt text](image_screen.png)
+![](image_screen.png)
 
 ---
 
@@ -29,6 +29,8 @@ Financial Independence, Retire Early (FIRE) Calculator
 
 - 飞书模板文档：https://eqyrx3fg3l.feishu.cn/sheets/Rofps2lj8hYeGktI0WtcpMugnib
 - 腾讯文档：https://docs.qq.com/sheet/DR0hUdHBYQ3VZanhG
+
+### 写在最后
 
 参考了一些项目搭建的这个计算器，但迫于很多项目都使用 web 搭建，甚至很多项目是不开源的，对于代码小白来说如果有自己的诉求，也不方便改造，同时网站也不能完全保护隐私，因此决定搭建这个开源工具
 
